@@ -17,11 +17,12 @@ py kantipur.py
 ## How to use
 
 The API is currently designed to work only for following categories
-Markup : 1. National
-         2. World
-         3. Entertainment
+	1. National
+    2. World
+    3. Entertainment
 
 The server is adjusted to run on port 8080 but you can configure that.
+
 Run the python script and visit 
 ```
 localhost:8080/category/national
@@ -38,7 +39,7 @@ localhost:8080/category/entertainment
 ## Modules Used
 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Web Scrapping
-# [Flask](http://flask.pocoo.org/) - Web Framework
+* [Flask](http://flask.pocoo.org/) - Web Framework
 
 ## License
 
