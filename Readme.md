@@ -2,6 +2,8 @@
 
 A Restful API for Kantipur news
 
+![Screenshot](http://i.imgur.com/gdzunPc.png "Screenshot: JSON Response")
+
 ## Getting Started
 
 ```
@@ -17,9 +19,12 @@ py kantipur.py
 ## How to use
 
 The API is currently designed to work only for following categories
-	1. National
-    2. World
-    3. Entertainment
+~~~
+ Markup : 	1. National
+    		2. World
+    		3. Entertainment
+~~~
+	
 
 The server is adjusted to run on port 8080 but you can configure that.
 
