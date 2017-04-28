@@ -20,9 +20,9 @@ py kantipur.py
 
 The API is currently designed to work only for following categories
 ~~~
- Markup : 	1. National
-    		2. World
-    		3. Entertainment
+	1. National
+    2. World
+    3. Entertainment
 ~~~
 	
 
