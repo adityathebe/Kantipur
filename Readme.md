@@ -2,6 +2,8 @@
 
 A Restful API for Kantipur news
 
+* [Live Demo](https://kanti.herokuapp.com/category/world)
+
 ![Screenshot](http://i.imgur.com/gdzunPc.png "Screenshot: JSON Response")
 
 ## Getting Started
@@ -43,8 +45,10 @@ localhost:8080/category/entertainment
 
 ## Modules Used
 
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Web Scrapping
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parsing
 * [Flask](http://flask.pocoo.org/) - Web Framework
+* [Requests](http://docs.python-requests.org/en/master/) - Making HTTP Requests
+* [Json](https://docs.python.org/2/library/json.html) - Jsonify the output
 
 ## License
 
